@@ -1,7 +1,7 @@
 # Apache JIRA Scraper  
 **Author:** Markandey Krishna Mishra  
 **Enrollment Number:** E22CSEU0671  
-**Institution:** Bennett University 
+**Institution:** Bennett University  
 
 ---
 
